@@ -12,13 +12,13 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  AI/ML enthusiast building intelligent systems,             ║
-║  writing clean code, and bridging the gap between           ║
+║  AI/ML enthusiast building intelligent systems,              ║
+║  writing clean code, and bridging the gap between            ║
 ║  data and real-world impact.                                 ║
 ║                                                              ║
 ║  📍 Ahmedabad, India                                         ║
 ║  💼 Ex-Intern @ Bacancy Technology                           ║
-║  🎯 Currently: leveling up in AI & ML               ║
+║  🎯 Currently: leveling up in AI & ML                        ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -66,7 +66,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karanbe17t&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karanbe17&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanbe17&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
 
