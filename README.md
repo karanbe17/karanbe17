@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Karan%20Brahmbhatt&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Enthusiast%20%7C%20Software%20Engineer&descAlignY=55&descColor=8b949e" />
+# Karan Brahmbhatt
+### AI/ML Enthusiast · Software Engineer
+
+📍 Ahmedabad, India
 
 </div>
 
@@ -8,17 +11,17 @@
 
 <div align="center">
 
-### ` whoami `
+### `whoami`
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  AI/ML enthusiast building intelligent systems,              ║
-║  writing clean code, and bridging the gap between            ║
+║  AI/ML enthusiast building intelligent systems,             ║
+║  writing clean code, and bridging the gap between           ║
 ║  data and real-world impact.                                 ║
 ║                                                              ║
 ║  📍 Ahmedabad, India                                         ║
 ║  💼 Ex-Intern @ Bacancy Technology                           ║
-║  🎯 Currently: leveling up in AI & ML                        ║
+║  🎯 Currently: leveling up in ML & Full Stack               ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -48,8 +51,9 @@
 
 **Backend**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=FFFFFF)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 
 **Tools & Platforms**
 
@@ -78,7 +82,19 @@
 
 </div>
 
+---
 
+## 🏅 Certifications
+
+| Certification | Issuer | Issued |
+|---|---|---|
+| [AWS Academy Machine Learning Foundations](https://www.credly.com/go/v8Rmla7y) | Amazon Web Services | Aug 2025 |
+| [AWS Academy Machine Learning for Natural Language Processing](https://www.credly.com/go/G1A15yNN) | Amazon Web Services | Aug 2025 |
+| [Complete Data Science, ML, DL & NLP Bootcamp](https://www.udemy.com/certificate/UC-a4c1c6b8-bf1b-4599-b7eb-85990787d7b4/) | Udemy | Sep 2025 |
+| [Certification in Natural Language Processing (NLP)](https://www.udemy.com/certificate/UC-39141c81-17a5-41df-bdd1-dee7dd95639f/) | Udemy | Sep 2025 |
+| [Introduction to Programming Using Python](https://www.udemy.com/certificate/UC-fc6023e4-a6f1-4232-a90b-5fe9536cb040/) | Udemy | Sep 2023 |
+
+---
 
 ## 💼 Experience
 
@@ -90,16 +106,6 @@ Bacancy Technology — Software Engineer Intern
 ├── Assisted in delivering client-facing features in a production environment
 └── Gained hands-on experience in full-stack development under mentorship
 ```
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Karan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karanbe17&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/karanbe17)
-
-</div>
 
 ---
 
@@ -116,8 +122,6 @@ Bacancy Technology — Software Engineer Intern
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=karanbe17&color=58a6ff&style=flat-square&label=Profile+Views)
 
