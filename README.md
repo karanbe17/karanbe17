@@ -1,9 +1,12 @@
 <div align="center">
 
-# Karan Brahmbhatt
-### AI/ML Enthusiast · Software Engineer
+<h1>👋 Hi, I'm Karan Brahmbhatt</h1>
 
-📍 Ahmedabad, India
+<p><b>AI/ML Engineer &nbsp;·&nbsp; Full Stack Developer &nbsp;·&nbsp; Aspiring MS in AI</b></p>
+
+<p>🏢 Ex-Software Engineer Intern @ Bacancy Technology &nbsp;|&nbsp; 📍 Ahmedabad, India</p>
+
+<p>💼 Open to Opportunities</p>
 
 </div>
 
@@ -13,17 +16,9 @@
 
 ### `whoami`
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  AI/ML enthusiast building intelligent systems,             ║
-║  writing clean code, and bridging the gap between           ║
-║  data and real-world impact.                                 ║
-║                                                              ║
-║  📍 Ahmedabad, India                                         ║
-║  💼 Ex-Intern @ Bacancy Technology                           ║
-║  🎯 Currently: leveling up in ML & Full Stack               ║
-╚══════════════════════════════════════════════════════════════╝
-```
+Software engineer with hands-on experience in AI/ML and full-stack development.<br/>
+I build intelligent systems, write clean code, and care about real-world impact.<br/>
+Currently deepening my expertise in ML — and planning to pursue a <b>Master's in Artificial Intelligence</b>.
 
 </div>
 
