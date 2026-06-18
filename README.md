@@ -54,7 +54,7 @@
 #### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karanbe17&show_icons=true&hide_border=true" alt="Karan's GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karanbe17&hide_border=true" alt="GitHub Streak" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanbe17&layout=compact&hide_border=true" alt="Top Languages" height="170" />
 </p>
 
