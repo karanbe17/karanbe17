@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-*AI-empowered software engineer and machine learning enthusiast with hands-on experience deploying production-ready, full-stack applications used by real teams daily. I specialize in bridging the gap between intelligent algorithms and scalable architectures while actively pursuing a Master's in Artificial Intelligence.*
+*AI-empowered sofware engineer building intelligent, production-ready systems for real-world impact. Currently bridging scalable architectures with predictive modeling, while actively pursuing a Master's in Artificial Intelligence.*
 
 </div>
 
