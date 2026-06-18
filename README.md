@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-*AI-empowered sofware engineer building intelligent, production-ready systems for real-world impact. Currently bridging scalable architectures with predictive modeling, while actively pursuing a Master's in Artificial Intelligence.*
+*AI-empowered software engineer building intelligent, production-ready systems for real-world impact. Currently bridging scalable architectures with predictive modeling, while actively pursuing a Master's in Artificial Intelligence.*
 
 </div>
 
@@ -51,11 +51,11 @@
 | [Certification in Natural Language Processing (NLP)](https://www.udemy.com/certificate/UC-39141c81-17a5-41df-bdd1-dee7dd95639f/) | Udemy | Sep 2025 |
 | [Introduction to Programming Using Python](https://www.udemy.com/certificate/UC-fc6023e4-a6f1-4232-a90b-5fe9536cb040/) | Udemy | Sep 2023 |
 
-## 📊 GitHub Stats
+#### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karanbe17&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a1a2e&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanbe17&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karanbe17&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanbe17&layout=compact&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <br/>
