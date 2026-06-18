@@ -1,83 +1,42 @@
 <div align="center">
-
-<h1>👋 Hi, I'm Karan Brahmbhatt</h1>
-
-<p><b>AI/ML Engineer &nbsp;·&nbsp; Full Stack Developer &nbsp;·&nbsp; Aspiring MS in AI</b></p>
-
-<p>🏢 Ex-Software Engineer Intern @ Bacancy Technology &nbsp;|&nbsp; 📍 Ahmedabad, India</p>
-
-<p>💼 Open to Opportunities</p>
-
+  <a href="mailto:karanbe17@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/karan-brahmbhatt-b43b3126b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/karanbe17"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
+
+<br/>
+
+# 👋 Hi, I'm Karan Brahmbhatt
+
+**B.Tech Computer Science, Indus University  ·  CGPA 8.66  · Aspiring MS in AI**
+
+AI-Empowered Software engineer with hands-on experience in AI/ML and full-stack development. I build intelligent systems, write clean code, and care about real-world impact. Currently deepening my expertise in AI/ML — and planning to pursue a Master's in Artificial Intelligence.
+
 
 ---
 
-<div align="center">
+## 💼 Experience
 
-### `whoami`
+**Software Engineer Intern** | Bacancy Technology *(Ahmedabad, India)*
+* Worked in a PHP + React team on real-world client projects.
+* Trained from the ground up on modern tech stacks, workflows, and best practices.
+* Assisted in delivering client-facing features in a production environment.
+* Gained hands-on experience in full-stack development under senior mentorship.
 
-Software engineer with hands-on experience in AI/ML and full-stack development.<br/>
-I build intelligent systems, write clean code, and care about real-world impact.<br/>
-Currently deepening my expertise in ML — and planning to pursue a <b>Master's in Artificial Intelligence</b>.
+## 🚀 Projects
 
-</div>
+* **[TetraThread](link-to-repo):** *[Brief 1-sentence description of the project and the tech stack used]*
+* **[CloudArc](link-to-repo):** *[Brief 1-sentence description of the project and the tech stack used]*
 
----
+## 🧠 Skills
 
-## 🧠 Tech Stack
-
-<div align="center">
-
-**AI / ML / Data**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-**Backend**
-
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=FFFFFF)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karanbe17&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanbe17&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karanbe17&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a1a2e&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-
-</div>
-
----
+| | |
+| :--- | :--- |
+| **Frontend** | React, JavaScript, HTML5, CSS3 |
+| **Backend** | Flask, PHP, Python |
+| **Databases** | MySQL, PostgreSQL, MongoDB |
+| **AI / ML / Data** | Python, TensorFlow, PyTorch, scikit-learn, Pandas, NumPy |
+| **Tools** | Git, GitHub, VS Code, Jupyter |
 
 ## 🏅 Certifications
 
@@ -89,37 +48,23 @@ Currently deepening my expertise in ML — and planning to pursue a <b>Master's 
 | [Certification in Natural Language Processing (NLP)](https://www.udemy.com/certificate/UC-39141c81-17a5-41df-bdd1-dee7dd95639f/) | Udemy | Sep 2025 |
 | [Introduction to Programming Using Python](https://www.udemy.com/certificate/UC-fc6023e4-a6f1-4232-a90b-5fe9536cb040/) | Udemy | Sep 2023 |
 
----
+## 📊 GitHub Stats
 
-## 💼 Experience
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karanbe17&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a1a2e&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanbe17&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages" width="48%" />
+</p>
 
-```
-Bacancy Technology — Software Engineer Intern
-├── Ahmedabad, India
-├── Worked in a PHP + React team on real-world client projects
-├── Trained from the ground up — tech stack, workflows, and best practices
-├── Assisted in delivering client-facing features in a production environment
-└── Gained hands-on experience in full-stack development under mentorship
-```
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/karan-brahmbhatt-b43b3126b/)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:karanbe17@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/karanbe17)
-
-</div>
-
----
+<br/>
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=karanbe17&color=58a6ff&style=flat-square&label=Profile+Views)
-
+  
 *"Code is poetry written in logic."*
+
+<br/>
+
+<p>Open to collaborations, internships, and engineering roles · <a href="mailto:karanbe17@gmail.com">karanbe17@gmail.com</a> · Ahmedabad, India</p>
 
 </div>
