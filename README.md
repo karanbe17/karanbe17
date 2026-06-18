@@ -1,17 +1,20 @@
 <div align="center">
-  <a href="mailto:karanbe17@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://linkedin.com/in/karan-brahmbhatt-b43b3126b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/karanbe17"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</div>
+
+# 👋 Hi, I'm Karan Brahmbhatt
+**B.Tech in Computer Science | CGPA: 8.66 | AI/ML Enthusiast**
 
 <br/>
 
-# 👋 Hi, I'm Karan Brahmbhatt
+<a href="mailto:karanbe17@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://linkedin.com/in/karan-brahmbhatt-b43b3126b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/karanbe17"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-**B.Tech Computer Science, Indus University  ·  CGPA 8.66  · Aspiring MS in AI**
+<br/>
+<br/>
 
-AI-Empowered Software engineer with hands-on experience in AI/ML and full-stack development. I build intelligent systems, write clean code, and care about real-world impact. Currently deepening my expertise in AI/ML — and planning to pursue a Master's in Artificial Intelligence.
+*AI-empowered software engineer and machine learning enthusiast with hands-on experience deploying production-ready, full-stack applications used by real teams daily. I specialize in bridging the gap between intelligent algorithms and scalable architectures while actively pursuing a Master's in Artificial Intelligence.*
 
+</div>
 
 ---
 
