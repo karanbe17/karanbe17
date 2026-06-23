@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Karan Brahmbhatt
+# Karan Brahmbhatt
 **B.Tech in Computer Science | CGPA: 8.66 | AI/ML Enthusiast**
 
 <br/>
@@ -28,8 +28,11 @@
 
 ## 🚀 Projects
 
-* **[TetraThread](link-to-repo):** *[Brief 1-sentence description of the project and the tech stack used]*
-* **[CloudArc](link-to-repo):** *[Brief 1-sentence description of the project and the tech stack used]*
+| | |
+| :--- | :--- |
+| **[CloudArc — Cloud Kitchen Ops](https://github.com/karanbe17/CloudArc)**<br><br>Full-stack capstone architecture engineered for centralized restaurant operations. Features real-time order routing, role-based access control, and dynamic workflow tracking.<br><br>`React` `Node.js` `MongoDB` | **[TetraThread — WhatsApp Automation](#)**<br><br>Automated communication utility leveraging web automation to parse spreadsheet data and execute high-volume, targeted messaging workflows reliably.<br><br>`React` `Python` `Selenium` |
+
+---
 
 ## 🧠 Skills
 
@@ -54,14 +57,13 @@
 #### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=karanbe17&hide_border=true" alt="GitHub Streak" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=karanbe17&hide_border=true" alt="GitHub Streak" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanbe17&layout=compact&hide_border=true" alt="Top Languages" height="170" />
 </p>
 <br/>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=karanbe17&color=58a6ff&style=flat-square&label=Profile+Views)
   
 *"Code is poetry written in logic."*
 
