@@ -26,6 +26,8 @@
 * Assisted in delivering client-facing features in a production environment.
 * Gained hands-on experience in full-stack development under senior mentorship.
 
+---
+
 ## 🚀 Projects
 
 | | |
@@ -44,6 +46,8 @@
 | **AI / ML / Data** | Python, TensorFlow, PyTorch, scikit-learn, Pandas, NumPy |
 | **Tools** | Git, GitHub, VS Code, Jupyter |
 
+---
+
 ## 🏅 Certifications
 
 | Certification | Issuer | Issued |
@@ -53,6 +57,8 @@
 | [Complete Data Science, ML, DL & NLP Bootcamp](https://www.udemy.com/certificate/UC-a4c1c6b8-bf1b-4599-b7eb-85990787d7b4/) | Udemy | Sep 2025 |
 | [Certification in Natural Language Processing (NLP)](https://www.udemy.com/certificate/UC-39141c81-17a5-41df-bdd1-dee7dd95639f/) | Udemy | Sep 2025 |
 | [Introduction to Programming Using Python](https://www.udemy.com/certificate/UC-fc6023e4-a6f1-4232-a90b-5fe9536cb040/) | Udemy | Sep 2023 |
+
+---
 
 #### 📊 GitHub Stats
 
@@ -64,11 +70,10 @@
 
 <div align="center">
 
-  
 *"Code is poetry written in logic."*
 
 <br/>
 
-<p>Open to collaborations, internships, and engineering roles · <a href="mailto:karanbe17@gmail.com">karanbe17@gmail.com</a> · Ahmedabad, India</p>
+<p>Currently building scalable full-stack & AI solutions · Open to research collaborations and engineering roles · <a href="mailto:karanbe17@gmail.com">karanbe17@gmail.com</a> · Ahmedabad, India</p>
 
 </div>
