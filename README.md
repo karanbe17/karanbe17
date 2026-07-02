@@ -21,6 +21,8 @@
 ## 💼 Experience
 
 **Software Engineer Intern** | Bacancy Technology *(Ahmedabad, India)*
+📅 *Jan 2026 – Apr 2026 · 4 mos*
+
 * Worked in a PHP + React team on real-world client projects.
 * Trained from the ground up on modern tech stacks, workflows, and best practices.
 * Assisted in delivering client-facing features in a production environment.
